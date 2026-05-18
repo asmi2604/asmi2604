@@ -129,13 +129,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmita-r-5b23691a1/)
 
 <br/>
-
-*"Consistency compounds into confidence."* ✨
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
 
 <p align="center">
