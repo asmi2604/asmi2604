@@ -19,7 +19,6 @@
 
 🎓 **M.Sc. in Statistics** — turning numbers into narratives  
 👩‍💻 **Aspiring Data Scientist & Analyst** at Innovalance Learning  
-📍 Based in **Delhi, India**  
 💡 Passionate about **Machine Learning**, **EDA**, and **EdTech Intelligence**  
 🚀 Currently building real-world projects in Python, SQL & ML  
 📚 Exploring **ML Pipelines · APIs · Model Deployment · Business Analytics**  
