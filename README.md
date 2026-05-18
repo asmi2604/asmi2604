@@ -10,8 +10,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asmita%20Rajendra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmita-r-5b23691a1/)
-[![GitHub followers](https://img.shields.io/github/followers/asmi2604?label=Followers&style=for-the-badge&color=a78bfa&labelColor=1e1b4b)](https://github.com/asmi2604)
-![Location](https://img.shields.io/badge/📍_Delhi,_India-1e1b4b?style=for-the-badge)
 
 </div>
 
