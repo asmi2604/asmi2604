@@ -17,17 +17,14 @@
 
 ## 🌸 About Me
 
-```python
-asmita = {
-    "degree"       : "M.Sc. Statistics",
-    "role"         : "Aspiring Data Scientist & Analyst",
-    "location"     : "Delhi, India 🇮🇳",
-    "interests"    : ["Machine Learning", "EDA", "EdTech Intelligence", "Analytics"],
-    "currently"    : "Building real-world ML & Data Science projects",
-    "learning"     : ["ML Pipelines", "Feature Engineering", "APIs", "Model Deployment"],
-    "quote"        : "✨ Consistency compounds into confidence ✨"
-}
-```
+## 🌸 About Me
+
+🎓 **M.Sc. in Statistics** — turning numbers into narratives  
+👩‍💻 **Aspiring Data Scientist & Analyst** at Innovalance Learning  
+📍 Based in **Delhi, India**  
+💡 Passionate about **Machine Learning**, **EDA**, and **EdTech Intelligence**  
+🚀 Currently building real-world projects in Python, SQL & ML  
+📚 Exploring **ML Pipelines · APIs · Model Deployment · Business Analytics**  
 
 ---
 
