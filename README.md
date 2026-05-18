@@ -17,8 +17,6 @@
 
 ## 🌸 About Me
 
-## 🌸 About Me
-
 🎓 **M.Sc. in Statistics** — turning numbers into narratives  
 👩‍💻 **Aspiring Data Scientist & Analyst** at Innovalance Learning  
 📍 Based in **Delhi, India**  
