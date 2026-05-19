@@ -17,7 +17,7 @@
 
 ## 🌸 About Me
 
-🎓 **M.Sc. in Statistics** — turning numbers into narratives  
+🎓 **M.Sc. in Statistics** 
 👩‍💻 **Aspiring Data Scientist & Analyst** at Innovalance Learning  
 💡 Passionate about **Machine Learning**, **EDA**, and **EdTech Intelligence**  
 🚀 Currently building real-world projects in Python, SQL & ML  
