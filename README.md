@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated name header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asmita%20Rajendra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Science%20%E2%80%A2%20ML%20%E2%80%A2%20Statistics&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
