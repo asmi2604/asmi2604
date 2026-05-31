@@ -104,7 +104,7 @@
 | 🧠 Feature Engineering | 🟪🟪🟪🟪🟪 Strong |
 | 🗄️ Advanced SQL | 🟪🟪🟪⬜⬜ Growing |
 | 🔌 APIs & ETL | 🟪🟪⬜⬜⬜ Exploring |
-| 🚀 Model Deployment | 🟪🟪⬜⬜⬜ Exploring |
+| 🚀 Model Deployment | 🟪🟪🟪⬜⬜ Exploring |
 | 📊 Business Analytics | 🟪🟪🟪🟪⬜ Learning |
 
 </div>
