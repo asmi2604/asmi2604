@@ -102,7 +102,7 @@
 |------|----------|
 | 🔧 ML Pipelines & Automation | 🟪🟪🟪🟪⬜ Learning |
 | 🧠 Feature Engineering | 🟪🟪🟪🟪🟪 Strong |
-| 🗄️ Advanced SQL | 🟪🟪🟪🟪🟪 Growing |
+| 🗄️ Advanced SQL | 🟪🟪🟪🟪🟪 Strong |
 | 🔌 APIs & ETL | 🟪🟪⬜⬜⬜ Exploring |
 | 🚀 Model Deployment | 🟪🟪🟪⬜⬜ Exploring |
 | 📊 Business Analytics | 🟪🟪🟪🟪⬜ Learning |
